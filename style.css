@@ -1,0 +1,118 @@
+body{
+        font-family: Arial, sans-serif;
+
+
+}
+header{
+    background-color:rgb(31, 31, 90);
+    
+
+
+
+
+
+
+}
+.index{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        text-align: center;
+
+
+
+
+
+
+}
+.png img{
+    width: 70px;
+
+
+
+
+}
+.container{
+            display: flex;
+
+
+
+
+}
+.haseeb{
+    color: white;
+    font-size: 16px;
+    margin-left: 20px;
+    padding: 10px 15px;
+    text-decoration: none; 
+    
+
+
+
+
+}
+.container a:hover{
+                background-color: white;
+                color: rgb(148, 148, 160);
+
+
+
+
+
+}
+.style{
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        
+
+
+
+
+
+
+
+}
+.box{
+    width: 30%;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 8px;
+    background-color:rgb(31, 31, 90) ;
+    color: white;
+
+
+
+
+}
+.box img{
+        width: 100%;
+        height: auto;
+        border-bottom: 2px solid #ddd;
+
+
+
+
+}
+section{
+        padding: 20px;
+
+
+
+
+
+}
+.class{
+    color: white;
+    font-size: 16px;
+    margin-left: 20px;
+    padding: 10px 15px;
+    text-decoration: none;  
+    
+
+
+
+
+
+}
+
